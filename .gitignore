@@ -1,0 +1,8 @@
+data/raw/
+src/cli.py.bkp
+src/cli.py.bkp2
+src/feature_extractor.py.bkp
+src/feature_extractor2.py.bkp
+src/feature_extractor3.py.bkp
+src/image_processor.py.bkp
+main.py.bkp
